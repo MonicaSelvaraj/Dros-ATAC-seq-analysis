@@ -2,3 +2,5 @@
 ATAC.bam
 ATAC.bam.indel.vcf
 ATAC.bam.summary
+Sorted_ATAC.bam
+Sorted_ATAC.bam.bai
