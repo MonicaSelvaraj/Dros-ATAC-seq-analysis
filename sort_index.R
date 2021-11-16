@@ -2,6 +2,8 @@
 
 library(Rsamtools)
 
+outBAM <- "/lab/solexa_lehmann/Dros-ATAC-seq-analysis/ATAC.bam"
+
 #make an output folder for sorted bam. CHECK THIS - it ended up one index up
 sortedBAM <- "/lab/solexa_lehmann/Dros-ATAC-seq-analysis/Sorted_ATAC.bam"
 

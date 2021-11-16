@@ -9,7 +9,7 @@ setwd("/lab/solexa_lehmann/Dros-ATAC-seq-analysis")
 library(Rsubread)
 
 #read genome file path
-genome <- "/nfs/genomes/d.melanogaster_aug_14/fasta_whole_genome/dm6.fa"
+genome <- "/nfs/genomes/d.melanogaster_aug_14/fasta_canonical_whole_genome/dm6_can.fa"
 
 #set working file path
 indexForSubread <- ("/lab/solexa_lehmann/Dros-ATAC-seq-analysis")
