@@ -6,3 +6,7 @@ Sorted_ATAC.bam
 Sorted_ATAC.bam.bai
 Sorted_ATAC.bam
 Sorted_ATAC.bam.bai
+dist_mapped_reads_plot_preprocessing.pdf
+fragment_length_log_plot_preprocessing.pdf
+fragment_length_plot_preprocessing.pdf
+preprocessed_stats.txt
