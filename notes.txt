@@ -1,0 +1,9 @@
+- Step 1 - create_ref_genome.R - Creates a reference genome
+Output: ATAC.bam, ATAC.bam.summary, ATAC.bam.indel.vcf
+
+- Step 2 - align_reads.R - Aligns forward and reverse ATAC reads to the reference genome.
+Output: 
+- Step 3 - sort_index.R - sort and index bam file
+Output: Sorted_ATAC.bam, Sorted_ATAC.bam.bai
+- Step 4 - num_mapped_reads.R - check mapping rate
+Step 5 - dist_mapped_reads.R - check dist of mapped reads to each chromosome
