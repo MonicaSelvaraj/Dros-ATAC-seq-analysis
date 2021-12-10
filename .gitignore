@@ -18,3 +18,10 @@ Sorted_ATAC_0.3.bam
 Sorted_ATAC_0.3.bam.bai
 fragment_lengths_chr2R_0.3xTn5.pdf
 fragment_lengths_ylog_chr2R_0.3xTn5.pdf
+ATAC_2.0.bam
+ATAC_2.0.bam.indel.vcf
+ATAC_2.0.bam.summary
+Sorted_ATAC_2.0.bam
+Sorted_ATAC_2.0.bam.bai
+fragment_lengths_chr2R_2.0xTn5.pdf
+fragment_lengths_ylog_chr2R_2.0xTn5.pdf
