@@ -11,3 +11,10 @@ fragment_length_log_plot_preprocessing.pdf
 fragment_length_plot_preprocessing.pdf
 preprocessed_stats.txt
 Greenleaf_original_ATAC_data/
+ATAC_0.3.bam
+ATAC_0.3.bam.indel.vcf
+ATAC_0.3.bam.summary
+Sorted_ATAC_0.3.bam
+Sorted_ATAC_0.3.bam.bai
+fragment_lengths_chr2R_0.3xTn5.pdf
+fragment_lengths_ylog_chr2R_0.3xTn5.pdf
